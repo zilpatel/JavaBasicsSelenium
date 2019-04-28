@@ -27,5 +27,5 @@ public class Human {
 		tirth.printDetails();
 		rikki.printDetails();
 	}
-		
+	// Pull Before Push	
 }
